@@ -1,7 +1,7 @@
 {
   "name": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nod index.js"
   },
   "dependencies": {
     "discord.js": "14.13.0",
